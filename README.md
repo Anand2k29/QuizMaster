@@ -67,7 +67,7 @@ Screenshots
 ## Screenshots
 
 ### Main Menu
-![Main Menu Screenshot][menu.png]
+![Main Menu Screenshot]![menu.png]
 
 ### Quiz Running
-![Quiz Screenshot][quiz.png]
+![Quiz Screenshot]![quiz.png]
