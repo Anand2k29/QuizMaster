@@ -64,7 +64,7 @@ Take Quiz: Login as the student and select "Take Quiz".
 Verify Results: Check your score immediately. Log out and log back in to ensure the "My Results" history is saved.
 
 Screenshots
-## Screenshots
+## Screenshots (Output)
 
 ### Main Menu
 ![Menu Screenshot](screenshots/menu.png)
