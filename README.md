@@ -6,20 +6,20 @@ QuizMaster is a robust CLI (Command Line Interface) application built in Java. I
 
 ### Features
 
-**_User Management_ ** : Secure login and registration for students.
+**_User Management_**  : Secure login and registration for students.
 
-**_Question Bank Management (CRUD)_ ** : Admins can Add and Delete questions.
+**_Question Bank Management (CRUD)_**  : Admins can Add and Delete questions.
 
-**_Exam Engine_ ** : Randomly serves questions to students and accepts inputs.
+**_Exam Engine_**  : Randomly serves questions to students and accepts inputs.
 
 **_Automated Grading_**  : Calculates percentage and pass/fail status instantly.
 
-**_History Log_ ** : Saves every quiz attempt to a file for future reference.
+**_History Log_**  : Saves every quiz attempt to a file for future reference.
 
 ### Technologies Used
 
-#### Language:  **Java (JDK 8+)
-**
+#### Language:  **Java (JDK 8+)**
+
 Concepts: Object-Oriented Programming (Polymorphism, Inheritance), Collections Framework (ArrayList, HashMap), File I/O (Object Serialization).
 
 Tools: Git, VS Code / IntelliJ IDEA.
