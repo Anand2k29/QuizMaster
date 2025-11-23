@@ -1,25 +1,25 @@
-QuizMaster - Java Exam & Grading System
+# QuizMaster - Java Exam & Grading System
 
-Overview
+### Overview
 
 QuizMaster is a robust CLI (Command Line Interface) application built in Java. It simulates an online examination environment where administrators can manage a bank of questions and students can take quizzes with immediate feedback.
 
-Features
+### Features
 
-User Management: Secure login and registration for students.
+_User Management_: Secure login and registration for students.
 
-Question Bank Management (CRUD): Admins can Add and Delete questions.
+_Question Bank Management (CRUD)_: Admins can Add and Delete questions.
 
-Exam Engine: Randomly serves questions to students and accepts inputs.
+_Exam Engine_: Randomly serves questions to students and accepts inputs.
 
-Automated Grading: Calculates percentage and pass/fail status instantly.
+_Automated Grading_: Calculates percentage and pass/fail status instantly.
 
-History Log: Saves every quiz attempt to a file for future reference.
+_History Log_: Saves every quiz attempt to a file for future reference.
 
-Technologies Used
+### Technologies Used
 
-Language: Java (JDK 8+)
-
+Language: **Java (JDK 8+)
+**
 Concepts: Object-Oriented Programming (Polymorphism, Inheritance), Collections Framework (ArrayList, HashMap), File I/O (Object Serialization).
 
 Tools: Git, VS Code / IntelliJ IDEA.
@@ -41,17 +41,17 @@ Run the Application:
 java QuizMaster
 
 
-Usage Instructions
+### Usage Instructions
 
 First Run: The system will create empty data files (questions.dat, users.dat) automatically.
 
 Admin Access:
 
-Username: admin
+_Username_: admin
 
-Password: admin123
+_Password:_ admin123
 
-Student Access: Choose "Register" from the main menu to create a new student account.
+_Student Access_: Choose "Register" from the main menu to create a new student account.
 
 Testing Strategy
 
