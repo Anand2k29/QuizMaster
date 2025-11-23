@@ -67,7 +67,7 @@ Screenshots
 ## Screenshots
 
 ### Main Menu
-![Main Menu Screenshot]![menu.png]
+![Main Menu Screenshot][WhatsApp Image 2025-11-23 at 18.30.02_460776d7.jpg]
 
 ### Quiz Running
-![Quiz Screenshot]![quiz.png]
+![Quiz Screenshot][WhatsApp Image 2025-11-23 at 18.36.49_e937fff5.jpg]
